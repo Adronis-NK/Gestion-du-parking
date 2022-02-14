@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+</resources>
